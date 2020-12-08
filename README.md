@@ -1,5 +1,5 @@
 # GluttonousSnake 1.3a
 
-**by RyTinSelver**
+**by KuroeIzukii**
 
 Enjoy The Game
